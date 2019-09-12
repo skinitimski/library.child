@@ -1,5 +1,5 @@
 def call(Map args) {
 
-    echo 'step: stepFromChildOther'
+    echo 'entering stepFromChildOther'
 }
 
