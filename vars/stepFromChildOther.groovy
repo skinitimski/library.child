@@ -1,4 +1,4 @@
-def call(Map args) {
+def call() {
 
     echo 'entering stepFromChildOther'
 }
